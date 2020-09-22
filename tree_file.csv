@@ -1,0 +1,26 @@
+ID;Pergunta;A;Resposta A;B;Resposta B
+1;"Olá, opção carnivora ou vegetariana?";carnivora;2;vegetariana;14
+2;Lanche ou refeição?;lanche;3;refeicao;4
+3;x-tudo ou misto quente?;x-tudo;5;misto quente;6
+4;feijoada ou lasanha?;feijoada;7;lasanha;8
+5;acompanhamento?;com acompanhamento;9;sem acompanhamento;6
+6;refrigerante;refrigerante;11;suco;12
+7;completa?;completa;6;incompleta;6
+8;bolognesa ou quatro queijos?;bolognesa;6;quatro queijos;6
+9;batata?;batata;6;sem batata;10
+10;onion rings?;onion rings;6;sem onion rings;6
+11;coca ou guarana?;coca;13;guarana;13
+12;laranja ou abacaxi?;laranja;13;abacaxi;13
+13;estado final;;Ótima escolha carnivora. Bom apetite!;;
+14;Lanche ou refeição?;lanche;15;refeicao;16
+15;schawarma de falafel ou queijo quente?;falafel;17;queijo quente;18
+16;curry de grão de bico ou beringela a parmegiana?;curry;19;beringela a parmegiana;20
+17;acompanhamento?;com acompanhamento;21;sem acompanhamento;18
+18;refrigerante;refrigerante;22;suco;23
+19;apimentado?;apimentado;18;sem pimenta;18
+20;frita grelhada?;frita;18;grelhada;18
+21;batata?;batata;18;sem batata;24
+22;coca ou guarana?;coca;25;guarana;25
+23;laranja ou abacaxi?;laranja;25;abacaxi;25
+24;onion rings?;onion rings;18;sem onion rings;18
+25;estado final;;Ótima escolha vegetariana. Bom apetite!;;
